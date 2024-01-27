@@ -1,2 +1,2 @@
 # OpenSourceMedData
-Data collections for [opensourcemed.org](opensourcemed.org)
+Data collections for [OpenSourceMed.org](opensourcemed.org)
